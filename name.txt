@@ -1,2 +1,2 @@
 Ken
-Color: white2
+Color: white
